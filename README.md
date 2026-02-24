@@ -4,7 +4,7 @@
 
 This project simulates the design and implementation of a cybersecurity governance, risk management, and incident response program for a fictional real estate closing firm based in Atlanta.
 
-Peach State Title & Closings processes highly sensitive financial and personal information, including wire transfer instructions, mortgage documentation, and personally identifiable information (PII). Due to the nature of its operations, the organization faces elevated risks related to Business Email Compromise (BEC), wire fraud, insider misuse, and regulatory exposure.
+Georgia Peach Title & Law, LLC processes highly sensitive financial and personal information, including wire transfer instructions, mortgage documentation, and personally identifiable information (PII). Due to the nature of its operations, the organization faces elevated risks related to Business Email Compromise (BEC), wire fraud, insider misuse, and regulatory exposure.
 
 This repository demonstrates practical knowledge in:
 
