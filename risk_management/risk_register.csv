@@ -1,0 +1,9 @@
+Risk ID,Asset,Threat,Vulnerability,Likelihood (1-3),Impact (1-3),Risk Score,Treatment Strategy
+R-01,Email System,Business Email Compromise (BEC),No MFA enabled,3,3,9,Mitigate
+R-02,Wire Transfer Process,Wire Fraud,Unverified wire instruction changes,3,3,9,Mitigate
+R-03,Client PII Data,Unauthorized Access,Excessive user permissions,2,3,6,Mitigate
+R-04,Document Management System,Ransomware,No endpoint detection solution,2,3,6,Mitigate
+R-05,Employee Workstations,Malware Infection,Lack of security awareness training,2,2,4,Mitigate
+R-06,Vendor Software,Third-Party Data Breach,No formal vendor security review,2,3,6,Mitigate
+R-07,Shared Network Drives,Data Leakage,Improper access reviews,2,2,4,Mitigate
+R-08,Email Communications,Phishing,No email filtering solution,3,2,6,Mitigate
